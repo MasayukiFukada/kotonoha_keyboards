@@ -3,14 +3,14 @@
 My designed mechanical keyboards.
 
 Firmware is [here](https://github.com/MasayukiFukada/qmk_firmware/tree/append_minamo_keymaps/keyboards/kotonoha) (QMK fork)  
-※ `append_minamo_keymaps`
+※ `append_minamo_keymaps` branch
 
 ## ことのは 『盆栽』(Kotonoha - type "BONSAI")
 
 ![bonsai](./docs/images/kotonoha_bonsai.jpg)
 
 * 30 % Keyboard (30 Key)
-* Free Style Staggered
+* FreeStyle Staggered
 * PCB and Acrylic plate
 
 ## ことのは 『居合』(Kotonoha - type "IAI")
@@ -26,7 +26,7 @@ Firmware is [here](https://github.com/MasayukiFukada/qmk_firmware/tree/append_mi
 ![wabisabi](./docs/images/kotonoha_wabisabi.jpg)
 
 * 30 % Keyboard (30 Key)
-* Matrix Staggered (Row x Col Staggered)
+* Matrix Staggered (Row x Column Staggered)
 * PCB and Acrylic plate
 
 ## License
