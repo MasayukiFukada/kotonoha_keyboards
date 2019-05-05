@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name kbd)(type Legacy)(uri /home/minamo/work/repository/kbd/labrary/kbd.lib)(options "")(descr ""))
+  (lib (name bonsai-rescue)(type Legacy)(uri ${KIPRJMOD}/bonsai-rescue.lib)(options "")(descr ""))
+)

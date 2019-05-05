@@ -1,0 +1,31 @@
+Drill report for /home/minamo/work/repository/KotonohaBorad/bonsai/bonsai.kicad_pcb
+Created on 2018年09月29日 22時12分36秒
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'bonsai-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (101 holes)
+    T2  0.81mm  0.032"  (84 holes)
+    T3  1.00mm  0.039"  (8 holes)  (with 8 slots)
+    T4  1.30mm  0.051"  (2 holes)
+
+    Total plated holes count 195
+
+
+Drill file 'bonsai-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.20mm  0.047"  (4 holes)
+    T2  1.80mm  0.071"  (30 holes)
+    T3  2.20mm  0.087"  (2 holes)
+    T4  3.00mm  0.118"  (60 holes)
+    T5  4.00mm  0.157"  (15 holes)
+    T6  4.80mm  0.189"  (5 holes)
+
+    Total unplated holes count 116

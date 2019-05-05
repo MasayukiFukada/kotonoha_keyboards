@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name kbd)(type KiCad)(uri /home/minamo/work/repository/kbd/kbd.pretty)(options "")(descr ""))
+  (lib (name image)(type KiCad)(uri /home/minamo/work/repository/KotonohaBoard/image.pretty)(options "")(descr ""))
+)

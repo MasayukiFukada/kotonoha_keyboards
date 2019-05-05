@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name keyboard_parts)(type KiCad)(uri /home/minamo/work/repository/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name keebs)(type KiCad)(uri /home/minamo/work/repository/keebs.pretty)(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri /home/minamo/work/repository/keyswitches.pretty)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri /home/minamo/work/repository/kbd/kbd.pretty)(options "")(descr ""))
+  (lib (name image)(type KiCad)(uri /home/minamo/work/repository/KotonohaBorad/image.pretty)(options "")(descr ""))
+)
