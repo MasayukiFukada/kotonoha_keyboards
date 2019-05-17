@@ -32,3 +32,7 @@ Firmware is [here](https://github.com/MasayukiFukada/qmk_firmware/tree/append_mi
 ## License
 
 MIT
+
+KiCad のフットプリントは [@foostan](https://github.com/foostan) さんのライブラリ  
+[kbd](https://github.com/foostan/kbd) から使用させて頂きました。  
+foostan さんありがとうございました。
